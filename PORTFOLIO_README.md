@@ -3,7 +3,7 @@
 
 **(408) 813-0924 · regkeys75@gmail.com · Temecula, CA**
 
-> 25+ years of full-stack engineering across enterprise, SaaS, fintech, and e-commerce — including roles at eBay, Boardvantage (acquired by Nasdaq), and GRIN. Currently serving as Principal Engineer at HBX LLC, building production Python automation systems and a full transport CRM, leveraging agentic AI to deliver complete solutions faster than traditional development cycles.
+> 20+ years of full-stack engineering across enterprise, SaaS, fintech, and e-commerce — including roles at eBay, Boardvantage (acquired by Nasdaq), and GRIN. Currently serving as Principal Engineer at HBX LLC, building production Python automation systems and a full transport CRM, leveraging agentic AI to deliver complete solutions faster than traditional development cycles.
 
 ---
 
