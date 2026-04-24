@@ -93,7 +93,7 @@ Full transport operations CRM covering client referral through active route assi
 
 ## How I Work with Agentic AI
 
-With 25 years of engineering experience, I use agentic AI the way a principal engineer should — as a force multiplier, not a replacement for judgment:
+With 20+ years of engineering experience, I use agentic AI the way a principal engineer should — as a force multiplier, not a replacement for judgment:
 
 - **Architect first, generate second** — I define system structure, data models, and constraints before any code is written
 - **Direct AI against real codebases** — fed a 5,800-line JSX app to Claude, directed it to produce a structured 11-app Django backend with proper model relationships, auth, and deployment config
@@ -104,7 +104,7 @@ With 25 years of engineering experience, I use agentic AI the way a principal en
 
 ## Professional Experience
 
-**Principal Engineer · HBX LLC** *(2022 – Present · Temecula, CA)*  
+**Principal Engineer · HBX LLC** *(2026 – Present · Temecula, CA)*  
 Design and deploy bidirectional geofence automation systems connecting Samsara and ConnectTeams — handling clock-in time corrections on route departure and automatic clock-outs on driver return. Architect and develop a full React + Django + PostgreSQL CRM. Build automated reporting pipelines with cron-scheduled execution on Linux servers.
 
 **Software Engineering Manager / Engineer · Nogient** *(Jan 2023 – Present)*  
