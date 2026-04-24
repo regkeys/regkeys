@@ -1,4 +1,4 @@
-# Reginald Johnson
+# Reggie Johnson
 ### Principal Engineer · Engineering Manager · Systems Automation
 
 **(408) 813-0924 · regkeys75@gmail.com · Temecula, CA**
