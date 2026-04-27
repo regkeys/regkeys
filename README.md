@@ -45,7 +45,7 @@ Together these two triggers form a self-correcting, end-to-end automated shift t
 Full transport operations CRM covering client referral through active route assignment.
 
 **What I built:**
-- 5,800-line React SPA: Clients, Drivers, Vehicles, Programs, Dispatch, Absence Log, Compliance, Import, Users, Activity
+- Refactored a legacy 5,800-line React SPA: Clients, Drivers, Vehicles, Programs, Dispatch, Absence Log, Compliance, Import, Users, Activity
 - Directed agentic AI to analyze the full JSX codebase and scaffold a complete Django + PostgreSQL backend — 11 apps, 103 Python files, models, admin, REST API layer, role-based auth, and middleware — in a single session
 - Data model covers full client lifecycle, driver certifications, fleet compliance, and role-based user access
 - Planned migration to Django REST Framework + React SPA with JWT auth
